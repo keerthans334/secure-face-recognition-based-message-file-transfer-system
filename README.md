@@ -57,7 +57,7 @@ This is a secure face recognition application built using Python, [Face-Recognit
 
 1. **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/keerthans334/secure-face-recognition-based-message-file-transfer-system.git>
     cd Face-recognition-app-using-Streamlit
     ```
 
